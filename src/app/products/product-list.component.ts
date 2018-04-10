@@ -11,7 +11,7 @@ import { ProductService } from "./product.service";
 })
 export class ProductListComponent implements OnInit{
    
-    pageTitle :string = 'Product List && Andrzej Bajuk';
+    pageTitle :string = 'Product List ';
     name : string = 'Andrzej Bajuk';
     showImage =true ;
     listFilter:string ='';
