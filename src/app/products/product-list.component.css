@@ -1,0 +1,10 @@
+.pic {
+    
+}
+.pic ,img {
+    width : 50px;
+    margin:  2px;
+}
+thead {
+    color: rgb(51, 86, 183);
+}
