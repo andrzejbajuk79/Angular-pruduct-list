@@ -2,7 +2,7 @@
 
 ####Preview
 
-![sass-js-coding-test screenshot](?raw=true)
+![sass-js-coding-test screenshot](https://github.com/andrzejbajuk79/Angular2-product-list/blob/master/src/assets/images/Zrzut%20ekranu%20(31).png?raw=true)
 
 # Products
 
